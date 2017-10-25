@@ -1,6 +1,6 @@
 # ahw42
 
-<h3>Important Git commands:</h3>
+<h6>Important Git commands:</h6>
 
 <h3>>ssh-keygen -p 								//change password</h3>
 <h3>>ssh -T git@github.com 						//test connection to GitHub</h3>
